@@ -30,6 +30,10 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
       * https://www.youtube.com/watch?v=RfWgVWGEuGE
       * https://www.youtube.com/watch?v=H8Dl8rZ6qwE
       * https://www.youtube.com/watch?v=3jGc8biSYHA
+## Legal
+      * https://www.youtube.com/watch?v=EHzvmyMJEK4
+## Marketing - Investors
+      * https://www.youtube.com/watch?v=SHAh6WKBgiE
       
       
       Stories: 
