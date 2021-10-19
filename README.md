@@ -36,7 +36,7 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
       * https://www.youtube.com/watch?v=SHAh6WKBgiE
       
       
-      Stories: 
+ ### Stories: 
         AIRBNB
           * https://www.youtube.com/watch?v=W608u6sBFpo
         GOOGLE
