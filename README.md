@@ -80,5 +80,7 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
           * https://www.youtube.com/watch?v=UqHxbVsIkOM
           * https://www.youtube.com/watch?v=y_doAHdL3v4
           * https://www.youtube.com/watch?v=0q-wvAIeUgk
+          
   FAILURE
+              
           * https://www.failory.com/startups/germany-failures
