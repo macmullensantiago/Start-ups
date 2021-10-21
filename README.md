@@ -13,6 +13,7 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
 ## How to build Products people love?
       * https://www.youtube.com/watch?v=sz_LgBAGYyo
       * https://www.youtube.com/watch?v=6IFR3WYSBFM
+      * https://www.youtube.com/watch?v=092JQrye9IM
 ## How to raise money?
       * https://www.youtube.com/watch?v=uFX95HahaUs
 ## Growth
