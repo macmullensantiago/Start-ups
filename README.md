@@ -88,6 +88,8 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
         PETER THIEL
           * https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PLU630Cd0ZQCMeQiSvU7DJmDJDitdE7m7r
           
+
+          
           
    BONUS: 
        
