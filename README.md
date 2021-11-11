@@ -15,7 +15,7 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
       * https://www.youtube.com/watch?v=6IFR3WYSBFM
       * https://www.youtube.com/watch?v=092JQrye9IM
       * https://www.youtube.com/watch?v=092JQrye9IM
-## How to raise money? How make money?
+## How to raise money? How to make money?
       * https://www.youtube.com/watch?v=uFX95HahaUs
       * https://www.youtube.com/watch?v=Gi8qSL6I9cE
 ## Growth
