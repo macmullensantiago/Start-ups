@@ -6,6 +6,9 @@ Material de estudio sobre la creación y crecimiento de start up's. Junto con hi
   
   What should the CEO be doing on a day to day basis? How do you make sure the company is moving in the right direction? 
       * https://www.youtube.com/watch?v=6fQHLK1aIBs
+      
+## Building Tech Startup
+      * https://www.youtube.com/watch?v=QcBy0MIa4t8
 ## How to manage people?
       * https://www.youtube.com/watch?v=alqHBCkSN8I
       * https://www.youtube.com/watch?v=CVfnkM44Urs
