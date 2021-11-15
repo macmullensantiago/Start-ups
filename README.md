@@ -1,6 +1,6 @@
 # Start-ups
 
-Material de estudio sobre la creación y crecimiento de start up's. Junto con historias de éxito y fracaso. 
+Material de estudio sobre la creación y crecimiento de startup's. Junto con historias de éxito y fracaso. 
 
 ## How to operate?
   
