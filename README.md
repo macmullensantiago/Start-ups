@@ -2,8 +2,7 @@
 
 Material de estudio sobre la creación y crecimiento de startup's. Junto con historias de éxito y fracaso. 
 
-## Founder Institute
-      * http://www.adeoressi.com/
+## Founder Institute / Adeo Ressi
       * https://fi.co/
 
 ## How to operate?
