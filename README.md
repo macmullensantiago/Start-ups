@@ -42,6 +42,7 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
       * https://www.youtube.com/watch?v=K0Eu6cL0BR8
       * https://www.youtube.com/watch?v=FDqmxp8gAUg
       * https://www.youtube.com/watch?v=ktou5CQX1W0
+      * https://www.youtube.com/watch?v=zlrb_X6fYZ0
 ## Creativity
       * https://www.youtube.com/watch?v=vI8nXdi-ir8
 ## Culture - Hiring
