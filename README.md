@@ -13,6 +13,7 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
       
 ## Building Tech Startup
       * https://www.youtube.com/watch?v=QcBy0MIa4t8
+      
 ## How to manage people?
       * https://www.youtube.com/watch?v=alqHBCkSN8I
       * https://www.youtube.com/watch?v=CVfnkM44Urs
@@ -22,41 +23,54 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
       * https://www.youtube.com/watch?v=6IFR3WYSBFM
       * https://www.youtube.com/watch?v=092JQrye9IM
       * https://www.youtube.com/watch?v=092JQrye9IM
+      
 ## How to raise money? How to make money?
       * https://www.youtube.com/watch?v=uFX95HahaUs
       * https://www.youtube.com/watch?v=Gi8qSL6I9cE
+      
 ## Growth
       * https://www.youtube.com/watch?v=n_yHZ_vKjno
+      
 ## How to find product market fit?
       * https://www.youtube.com/watch?v=_6pl5GG8RQ4
       * https://www.youtube.com/watch?v=rqi-n0hA4uo
       * https://www.youtube.com/watch?v=AaoIuwepucM
+      
 ## How to get users and grow?
       * https://www.youtube.com/watch?v=URiIsrdplbo
       * https://www.youtube.com/watch?v=URiIsrdplbo
+      
 ## How to invent the future?
       * https://www.youtube.com/watch?v=id1WShzzMCQ
+      
 ## How to get ideas?
       * https://www.youtube.com/watch?v=zsBjAuexPq4
+      
 ## Business Model
       * https://www.youtube.com/watch?v=K0Eu6cL0BR8
       * https://www.youtube.com/watch?v=FDqmxp8gAUg
       * https://www.youtube.com/watch?v=ktou5CQX1W0
       * https://www.youtube.com/watch?v=zlrb_X6fYZ0
+      
 ## Creativity
       * https://www.youtube.com/watch?v=vI8nXdi-ir8
+      
 ## Culture - Hiring
       * https://www.youtube.com/watch?v=RfWgVWGEuGE
       * https://www.youtube.com/watch?v=H8Dl8rZ6qwE
       * https://www.youtube.com/watch?v=3jGc8biSYHA
       * https://www.youtube.com/watch?v=vts7vU0rOvQ
       * https://www.youtube.com/watch?v=EMIa3XhQpnk
+      
 ## Legal
       * https://www.youtube.com/watch?v=EHzvmyMJEK4
+      
 ## Marketing - Investors
       * https://www.youtube.com/watch?v=SHAh6WKBgiE
+      
 ## Roadmap to Succes
       * https://www.youtube.com/watch?v=RW3g2TroY3g
+      
 ## Have you got what it takes?
       * https://www.youtube.com/watch?v=tki3_CMPuYo
       
@@ -104,6 +118,14 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           
  ## Product Management
           * https://www.youtube.com/watch?v=huTSPanUlQM
+          * https://www.youtube.com/watch?v=Wnhxa90yNXQ
+          * https://www.youtube.com/watch?v=8eev-eI0yFk
+          * https://www.youtube.com/watch?v=VzB2_mhUevM // Interview
+          * https://www.youtube.com/watch?v=l43-_yXuZ-I // Uber PM Interview
+          * https://www.youtube.com/watch?v=ntzB9pGsD3E
+          
+ ## Venture Capital
+          * https://www.youtube.com/watch?v=qieDyvn6q0Q
           
 
           
