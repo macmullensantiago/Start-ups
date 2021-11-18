@@ -95,6 +95,9 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=zN1PyNwjHpc
         PETER THIEL
           * https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PLU630Cd0ZQCMeQiSvU7DJmDJDitdE7m7r
+     
+ ## Succesful business are built on secrets
+     * https://www.youtube.com/watch?v=yODORwGmHqo
           
 
           
