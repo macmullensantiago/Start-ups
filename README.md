@@ -98,8 +98,12 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
      
  ## Succesful businesses are based on Secrets
           * https://www.youtube.com/watch?v=yODORwGmHqo
+          
  ## Turning Products into Companies
           * https://www.youtube.com/watch?v=092JQrye9IM
+          
+ ## Product Management
+          * https://www.youtube.com/watch?v=huTSPanUlQM
           
 
           
