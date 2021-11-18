@@ -98,11 +98,13 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
      
  ## Succesful businesses are based on Secrets
           * https://www.youtube.com/watch?v=yODORwGmHqo
+ ## Turning Products into Companies
+          * https://www.youtube.com/watch?v=092JQrye9IM
           
 
           
           
-   BONUS: 
+   ## BONUS 
        
           * https://www.youtube.com/watch?v=EcMKLwVlpJk&t=120s
           * https://www.youtube.com/watch?v=s3RrVmv5WwA
@@ -110,6 +112,6 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=y_doAHdL3v4
           * https://www.youtube.com/watch?v=0q-wvAIeUgk
           
-  FAILURE
+ ## FAILURE
               
           * https://www.failory.com/startups/germany-failures
