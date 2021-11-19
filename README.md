@@ -141,3 +141,6 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
  ## FAILURE
               
           * https://www.failory.com/startups/germany-failures
+          
+ ## Crypto
+          * https://paxful.com/
