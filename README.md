@@ -144,3 +144,6 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           
  ## Crypto
           * https://paxful.com/
+          
+ ## Tackle a Problem 
+          * https://www.businessinsider.es/estas-10-startups-trabajan-luchar-cambio-climatico-462695
