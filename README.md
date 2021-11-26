@@ -123,9 +123,16 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=VzB2_mhUevM // Interview
           * https://www.youtube.com/watch?v=l43-_yXuZ-I // Uber PM Interview
           * https://www.youtube.com/watch?v=ntzB9pGsD3E
+          * https://www.youtube.com/watch?v=huTSPanUlQM
+          
+ ## Business Plan Writing - Wharton
+          * https://www.youtube.com/watch?v=zlrb_X6fYZ0
           
  ## Venture Capital
           * https://www.youtube.com/watch?v=qieDyvn6q0Q
+          
+## John Sculley
+          * https://www.youtube.com/watch?v=7MS0dlMONnI //Pepsi, Apple
           
 
           
