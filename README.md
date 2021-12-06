@@ -91,6 +91,8 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=M8aCKi3dsVg
         ALIBABA GROUP
           * https://www.youtube.com/watch?v=kh_wPWQrWZA
+          * https://www.youtube.com/watch?v=euxJhgYZXL8
+          * https://www.youtube.com/watch?v=kh_wPWQrWZA
         NIKE
           * https://www.youtube.com/watch?v=OHTosaWWKvg
         GOLDMAN SACHS
@@ -107,6 +109,11 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=rP-dB6f96gA
         AMAZON
           * https://www.youtube.com/watch?v=zN1PyNwjHpc
+        SQUARE & TWITTER
+          * https://www.youtube.com/watch?v=AckvbL5Tfic
+          * https://www.youtube.com/watch?v=w7j0VEwWmkE
+          * https://www.youtube.com/watch?v=60KJz1BVTyU
+          * https://www.youtube.com/watch?v=rn9lTpD-yKc
         PETER THIEL
           * https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PLU630Cd0ZQCMeQiSvU7DJmDJDitdE7m7r
      
