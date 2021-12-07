@@ -116,6 +116,10 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=rn9lTpD-yKc
         PETER THIEL
           * https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PLU630Cd0ZQCMeQiSvU7DJmDJDitdE7m7r
+        LINUX
+          * https://www.youtube.com/watch?v=4XpnKHJAok8 // git
+          * https://www.youtube.com/watch?v=WVTWCPoUt8w // The Origins of Linux
+          
      
  ## Succesful businesses are based on Secrets
           * https://www.youtube.com/watch?v=yODORwGmHqo
