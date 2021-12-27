@@ -144,7 +144,8 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           
 ## John Sculley
           * https://www.youtube.com/watch?v=7MS0dlMONnI //Pepsi, Apple
-          
+## Paul Graham
+          * http://www.paulgraham.com/wealth.html
 
           
           
