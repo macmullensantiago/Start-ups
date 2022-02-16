@@ -1,4 +1,4 @@
-# Start-ups
+# Startups
 
 Material de estudio sobre la creación y crecimiento de startup's. Junto con historias de éxito y fracaso. 
 
@@ -146,6 +146,8 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * https://www.youtube.com/watch?v=7MS0dlMONnI //Pepsi, Apple
 ## Paul Graham
           * http://www.paulgraham.com/wealth.html
+## Peter Thiel CS 183
+          * https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PLU630Cd0ZQCMeQiSvU7DJmDJDitdE7m7r
 
           
           
