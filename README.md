@@ -148,6 +148,7 @@ Material de estudio sobre la creación y crecimiento de startup's. Junto con his
           * http://www.paulgraham.com/wealth.html
 ## Peter Thiel CS 183
           * https://www.youtube.com/watch?v=CBYhVcO4WgI&list=PLU630Cd0ZQCMeQiSvU7DJmDJDitdE7m7r
+          * https://www.youtube.com/watch?v=gQPlhycLmMk
 
           
           
